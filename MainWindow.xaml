@@ -8,6 +8,6 @@
         ResizeMode="NoResize"
         Title="NotHibernate" Height="200" Width="300">
     <Grid>
-        <Label x:Name="LabelStatus" Content="Ativo" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Blue"/>
+        <Label x:Name="LabelStatus" Content="Ativo" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="#0000FF" Height="82" Width="132" FontSize="50"/>
     </Grid>
 </Window>
